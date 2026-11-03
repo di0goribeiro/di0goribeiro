@@ -6,7 +6,7 @@ Estudante de programação, focado em desenvolvimento web e mobile.
 
 **Linguagens:** Java · JavaScript · TypeScript · Kotlin · Swift · PHP
 
-**Dados:** SQL · XML · XSD
+**Dados:** SQL 
 
 **Web & Mobile:** Node.js · Angular · Ionic
 
