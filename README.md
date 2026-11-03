@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, sou o Diogo 👋
 
-<!--
-**di0goribeiro/di0goribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de programação, focado em desenvolvimento web e mobile.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linguagens:** Java · JavaScript · TypeScript · Kotlin · Swift · PHP
+
+**Dados:** SQL · XML · XSD
+
+**Web & Mobile:** Node.js · Angular · Ionic
+
+**Ferramentas:** Git · GitHub · GitLab · Postman · Swagger · DevOps
+
+## 🚀 Projetos
+
+- **WorkHub** – Aplicação full-stack de gestão de espaços de coworking
+- **MundialManager** – CRUD de equipas e jogadores (Angular → Ionic)
+- **GeoWeather** – App Android de meteorologia (Kotlin)
+
+## 📫 Contacto
+
+- GitHub: [Diogo-Ribeiro-FE](https://github.com/Diogo-Ribeiro-FE)
