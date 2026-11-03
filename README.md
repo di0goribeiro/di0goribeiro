@@ -20,4 +20,4 @@ Estudante de programação, focado em desenvolvimento web e mobile.
 
 ## 📫 Contacto
 
-- GitHub: [Diogo-Ribeiro-FE](https://github.com/Diogo-Ribeiro-FE)
+- GitHub: [di0goribeiro](https://github.com/di0goribeiro)
