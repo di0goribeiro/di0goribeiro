@@ -14,9 +14,7 @@ Estudante de programação, focado em desenvolvimento web e mobile.
 
 ## 🚀 Projetos
 
-- **WorkHub** – Aplicação full-stack de gestão de espaços de coworking
-- **MundialManager** – CRUD de equipas e jogadores (Angular → Ionic)
-- **GeoWeather** – App Android de meteorologia (Kotlin)
+- **Em progresso...**
 
 ## 📫 Contacto
 
