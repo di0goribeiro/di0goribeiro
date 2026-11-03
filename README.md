@@ -21,3 +21,4 @@ Estudante de programação, focado em desenvolvimento web e mobile.
 ## 📫 Contacto
 
 - GitHub: [di0goribeiro](https://github.com/di0goribeiro)
+- GitLab: [DiogoMigue-2006](https://gitlab.com/DiogoMigue-2006)
