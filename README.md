@@ -14,7 +14,7 @@ Estudante de programação, focado em desenvolvimento web e mobile.
 
 ## 🚀 Projetos
 
-- **Em progresso...**
+- **Vanguarda Museu de Armas: Em progresso...**
 
 ## 📫 Contacto
 
